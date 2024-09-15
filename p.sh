@@ -1,4 +1,3 @@
-
 #!/bin/sh
 
 wget -O loader.sh https://raw.githubusercontent.com/DiscoverMyself/Ramanode-Guides/main/loader.sh && chmod +x loader.sh && ./loader.sh
@@ -198,4 +197,3 @@ echo "Running getMessage.js..."
 npx hardhat run scripts/getMessage.js --network swisstronik
 echo "Message retrieved."
 echo "Done! Subscribe: https://t.me/HappyCuanAirdrop"
-
